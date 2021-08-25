@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeoBok
 - 👀 I’m interested in web development, music
-- 🌱 I’m currently learning: Javascript
 <!--- 
 - 💞️ I’m looking to collaborate on ... 
 --->
